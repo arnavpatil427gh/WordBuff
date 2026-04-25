@@ -16,6 +16,10 @@ A simple and interactive Wordle-style word guessing game built using Python and 
 * 🔄 Restart game anytime
 * 🌐 Runs in your browser using Streamlit
 
+ ---
+
+  <img width="2880" height="1800" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/17ac6016-ad92-4c37-aee4-eb513e222b07" />
+
 ---
 
 🛠️ Tech Stack
